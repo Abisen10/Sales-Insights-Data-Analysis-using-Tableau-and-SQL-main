@@ -35,40 +35,6 @@ Sales director wants to know the performance of the company in various Indian st
   
 - Q5. Net Profit & Profit Margin by Market
 
-### Approach - Project Planning & [Aims Grid](https://www.youtube.com/watch?v=6118I9HViuQ)
-  
-#### 1. Purpose: What? Why? What do we want to achieve?
-To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering.
-
-#### 2. Stake Holders: Who will be involved?
-- Sales Director, 
-- I.T. Team, 
-- Customer Service Team, 
-- Data & Analytics Team.
-
-#### 3. End Result: What do we want to achieve?
-An automated dashboard providing quick & latest sales insights in order to support data driven decision making.
-
-#### 4. Success Criteria: What will be our success criteria?
-- Dashboards uncovering sales order insights with latest data available.
-- Sales team able to take better decision & prove 10% cost savings of total spend.
-- Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
-
-### Data Analysis - Approach
-<p  align="center"><a href="https://github.com/mrankitgupta"><img width="80%" src="https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/images/flow.jpg" /></a></p>
-
-### Setup Process
-  
-Step 1: Download file: <code>[db_dump.sql](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/Databases/db_dump.sql)</code> or <code>[db_dump.xlsx](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL/blob/main/Databases/db_dump.xlsx)</code>
-
-Step 2: Import it in MySql do ETL(Extract, Transform, Load) if required
-
-Step 3: Download [Tableau Public](https://www.tableau.com/products/public/download) (Free) or [Tableau Desktop](https://www.tableau.com/products/desktop/download) (14 days trial) to perform Data Analysis
-  
-Step 4: Connect Tableau with MySql database or Excel database
-  
-Step 5: Save the file as (.twb or .twbx)
-
   
 ## Data Analysis Using SQL
   
